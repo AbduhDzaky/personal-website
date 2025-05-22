@@ -31,7 +31,7 @@ const HomePage = () => {
           <Row className="header-box d-flex align-items-center">
             <Col lg="4" className="kolom-1">
               <h1 className="mb-0 mt-0 animate__animated animate__fadeInUp animate__delay-1s">
-                Artificial Intelligence
+                Blockchain Developer
               </h1>
             </Col>
 
@@ -40,7 +40,7 @@ const HomePage = () => {
                 I am a undergraduate student👋
               </p>
               <h1 className="mb-0 mt-0 animate__animated animate__fadeInUp animate__delay-1s">
-                Front-End
+                Full-stack Developer
               </h1>
 
               <div className="kontainer">
@@ -67,7 +67,7 @@ const HomePage = () => {
 
             <Col lg="4" className="kolom-3  ">
               <h1 className="mb-4 mt-0 animate__animated animate__fadeInUp animate__delay-1s">
-                Machine Learning
+                Web3 Interested
               </h1>
             </Col>
           </Row>
